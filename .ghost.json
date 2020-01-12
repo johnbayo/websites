@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://linuxcloud.ng",
+    "contentApiKey": "cb13f5a04133d0ad5aaee24cd5"
+  },
+  "production": {
+    "apiUrl": "https://linuxcloud.ng",
+    "contentApiKey": "cb13f5a04133d0ad5aaee24cd5"
+  }
+}
